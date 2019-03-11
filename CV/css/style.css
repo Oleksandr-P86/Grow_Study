@@ -1,0 +1,76 @@
+	body {
+			font-family: monospace;
+			font-size: 100%;
+		}
+		.container {
+			margin: 0 auto;
+			width: 960px;
+		}
+		button {
+			position: fixed;
+			right: 20px;
+			top: 20px;
+			font-size: 20px;
+			font-family: monospace;
+			border-radius: 10px;
+			
+		}
+		.header {
+			height: 500px;
+		}
+		
+
+		
+		ul {
+			margin: 0;
+			padding: 0;
+		}
+		
+		
+		.nav {
+			min-height: 64px;
+		}
+		.nav ul {
+			position: relative;
+			right: 0;
+		}
+		
+		.qw {
+			width: 960px;
+		}
+		.qw img {
+			position: relative;
+			top: 70px;
+			left: 45%;
+		}
+		.as {
+			position: relative;
+			top: 100px;
+			
+		}
+		
+		.hed a button:hover {
+			background-color: black;
+			color: white;
+		}
+		.hed {
+			height: 500px;
+		}
+		.skype {
+			height: 40px;
+		}
+		.nav li {
+			float: left;
+			width: 150px;
+			text-decoration-line: none;
+			list-style-type: none;
+			
+		}
+		.nav a {
+			display: block;
+			line-height: 4em;
+			font-weight: bold;
+			text-decoration-line: none;
+			color: white;
+			text-align: center;
+		}
